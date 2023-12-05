@@ -13,13 +13,13 @@ The Apex Specialist superbadge is an immersive exploration of Apex coding skills
 ### Process Automation Specialist Superbadge
 This section of the Superset focuses on mastering process automation within Salesforce. It's divided into three significant components:
 
-#### Approval Process Specialist Superbadge
+**Approval Process Specialist Superbadge**
 Interns delve into automation expertise, troubleshooting approval processes, identifying Flow elements, and applying best practices for scalability and performance enhancement. Additionally, it emphasizes screen flow distribution for an optimized user experience.
 
-#### Flow Elements and Resources Specialist Superbadge
+**Flow Elements and Resources Specialist Superbadge**
 Participants immerse themselves in understanding diverse Flow elements and resources within Salesforce. They explore ways to optimize flow performance, administer and configure flows effectively, ensuring seamless activation.
 
-#### Screenflow Specialist Superbadge
+**Screenflow Specialist Superbadge**
 This segment explores the intricacies of screen flows, focusing on configuration, optimal deployment across user interfaces, and emphasizing user-centric design for an enhanced user experience.
 
 ### Developer Super Set
