@@ -1,0 +1,27 @@
+Start->
+
+Log in to your Salesforce org.
+
+Go to Setup.
+
+In the Quick Find box, enter "Remote Site Settings," then click on "Remote Site Settings."
+
+Click "New Remote Site."
+
+Fill out the form with the following details for the first Remote Site:
+
+Remote Site Name: animals_http
+Remote Site URL: https://th-apex-http-callout.herokuapp.com
+Description: Trailhead animal service: HTTP
+Click "Save."
+
+After saving, click "New Remote Site" again.
+
+Fill out the form with the following details for the second Remote Site:
+
+Remote Site Name: animals_soap
+Remote Site URL: https://th-apex-soap-service.herokuapp.com
+Description: Trailhead animal service: SOAP
+Click "Save."
+
+<-Finish
